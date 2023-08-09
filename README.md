@@ -20,34 +20,34 @@ title="Modelagem" width="700" height="500" />
 > ##### Modelo Fisico
 
 <img src="./photos/modelo_fisico.png"
-title="fisico" width="700" height="500" />
+title="fisico" width="500" height="500" />
 
 ##### Telas para App Mobile
 * Tendo em mente a facilidade de acesso a recursos para administrar estes dados e uma maior facilidade de visualização, temos aqui o aplicativo de gerenciamento de produtos e finanças KraftHeinz.
 
 <img src="./photos/login.png"
-title="login" width="700" height="500" />
+title="login" width="207" height="450" />
 
 <img src="./photos/analise.png"
-title="analise" width="700" height="500" />
+title="analise" width="207" height="450" />
 
 * O aplicativo em questão disponibiliza o gerenciamento e a visão geral de lucros, economia por valor e porcentagem (separados por setor), análise de crescimento de produção sustentável, área de gerenciamento de investimentos e muito mais!
 
 <img src="./photos/retorno_finc.png"
-title="retorno_finc" width="700" height="500" />
+title="retorno_finc" width="207" height="450" />
 
 <img src="./photos/grafico.png"
-title="grafico" width="700" height="500" />
+title="grafico" width="207" height="450" />
 
 <img src="./photos/calendario.png"
-title="calendario" width="700" height="500" />
+title="calendario" width="207" height="450" />
 
 ##### API
 
 * Para concluir, temos a API que nos fornece rotas definidas, criadas pelo swagger, modelando uma API que server como um intermédio entre o banco de dados e o app mobile.
 
 <img src="./photos/api_ex.png"
-title="api_ex" width="700" height="500" />
+title="api_ex" width="700" height="350" />
 
 
 ### Agradeço por sua atenção!
