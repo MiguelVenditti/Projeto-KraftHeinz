@@ -25,22 +25,11 @@ title="fisico" width="500" height="500" />
 ##### Telas para App Mobile
 * Tendo em mente a facilidade de acesso a recursos para administrar estes dados e uma maior facilidade de visualização, temos aqui o aplicativo de gerenciamento de produtos e finanças KraftHeinz.
 
-<img src="./photos/login.png"
-title="login" width="207" height="450" />
-
-<img src="./photos/analise.png"
-title="analise" width="207" height="450" />
+<img src="./photos/login.png" title="login" width="207" height="450" /> <img src="./photos/analise.png" title="analise" width="207" height="450" />
 
 * O aplicativo em questão disponibiliza o gerenciamento e a visão geral de lucros, economia por valor e porcentagem (separados por setor), análise de crescimento de produção sustentável, área de gerenciamento de investimentos e muito mais!
 
-<img src="./photos/retorno_finc.png"
-title="retorno_finc" width="207" height="450" />
-
-<img src="./photos/grafico.png"
-title="grafico" width="207" height="450" />
-
-<img src="./photos/calendario.png"
-title="calendario" width="207" height="450" />
+<img src="./photos/retorno_finc.png" title="retorno_finc" width="207" height="450" /> <img src="./photos/grafico.png" title="grafico" width="207" height="450" /> <img src="./photos/calendario.png" title="calendario" width="207" height="450" />
 
 ##### API
 
